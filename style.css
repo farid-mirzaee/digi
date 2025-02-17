@@ -686,13 +686,37 @@ header .header-right{
     font-size: .8rem;
     color: #fff;
 }
-.more{
+.magic-offers .magic-offers-left div{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 10px;
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 20px;
     margin-left: 10px;
+
+
 }
-h5{
-    margin-left: 10px;
+.magic-offers .magic-offers-left span{
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.banner{
+    gap: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin: 3rem auto;
+}
+.banner>a{
+    width: 21.875rem;
+    height: auto;
+}
+.banner>a img{
+    width: 100%;
+    height: auto;
+    border-radius: 2rem;
 }
