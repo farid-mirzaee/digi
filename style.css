@@ -691,8 +691,9 @@ header .header-right{
     justify-content: center;
     align-items: center;
     background-color: white;
+    color: #329500;
     padding: 15px 15px;
-    border-radius: 20px;
+    border-radius: 30px;
     margin-left: 10px;
 
 
@@ -716,6 +717,30 @@ header .header-right{
     height: auto;
 }
 .banner>a img{
+    width: 100%;
+    height: auto;
+    border-radius: 2rem;
+}
+
+.khared{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.catergory{
+    gap: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin: 3rem auto;
+}
+.catergory>a{
+    width: 21.875rem;
+    height: auto;
+}
+.catergory>a img{
     width: 100%;
     height: auto;
     border-radius: 2rem;
