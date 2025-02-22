@@ -745,3 +745,67 @@ header .header-right{
     height: auto;
     border-radius: 2rem;
 }
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.banner-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    height: auto;
+    width: 100%;
+    gap: 8px;
+
+}
+.banner-2>a{
+    height: auto;
+}
+.banner-2>a img{
+    width: 100%;
+    height: auto;
+    border-radius: 1.3rem;
+}
+.mahbob{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.brands{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+}
+.brands>a{
+    width: 21.875rem;
+    height: auto;
+}
+.brands>a img{
+    width: 100%;
+    height: auto;
+}
+.banner-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+    height: auto;
+    width: 100%;
+    gap: 8px;
+
+}
+.banner-3>a{
+    height: auto;
+}
+.banner-3>a img{
+    width: 100%;
+    height: auto;
+    border-radius: 1.3rem;
+}
